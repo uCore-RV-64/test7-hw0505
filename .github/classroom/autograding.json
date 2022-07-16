@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "t",
+      "setup": "",
+      "run": "make setup",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
